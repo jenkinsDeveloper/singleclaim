@@ -11,7 +11,7 @@ public class TestClaim {
   }
 
   @Test
-  public void testNotFail() {asd
+  public void testNotFail() {
 
   }
 }

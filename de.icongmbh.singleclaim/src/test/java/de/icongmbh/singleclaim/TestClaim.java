@@ -31,7 +31,7 @@ public class TestClaim {
   }
   
   @Test
-  public void testNotFail3() { 
+  public void testNotFail3() {
 
   }
 }

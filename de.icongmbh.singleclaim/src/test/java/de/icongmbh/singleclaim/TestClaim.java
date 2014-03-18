@@ -12,12 +12,12 @@ public class TestClaim {
   
   @Test
   public void testFail2() {
-    //Assert.fail();
+    Assert.fail();
   }
   
   @Test
   public void testFail3() {
-    //Assert.fail();
+    Assert.fail();
   }
 
   @Test

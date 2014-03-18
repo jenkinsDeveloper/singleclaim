@@ -6,32 +6,32 @@ import org.junit.Test;
 public class TestClaim2 {
 
   @Test
-  public void testFail() {
+  public void testFail_2() {
     Assert.fail();
   }
   
   @Test
-  public void testFail2() {
+  public void testFail2_2() {
     Assert.fail();
   }
   
   @Test
-  public void testFail3() {
+  public void testFail3_2() {
     Assert.fail();
   }
 
   @Test
-  public void testNotFail() {
+  public void testNotFail_2() {
 
   }
   
   @Test
-  public void testNotFail2() {
+  public void testNotFail2_2() {
 
   }
   
   @Test
-  public void testNotFail3() {
+  public void testNotFail3_2() {
 
   }
 }
